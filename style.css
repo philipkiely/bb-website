@@ -17,3 +17,20 @@
 .title-text {
   margin-bottom: -10%
 }
+.floating-box {
+  margin-top: -2%;
+  background-color: white;
+  border: 1px solid #DCDCDC;
+}
+.floating-box-a {
+  margin-bottom: -2%;
+  background-color: white;
+  border: 1px solid #DCDCDC;
+}
+.text-in-image {
+  margin-bottom: -60%;
+}
+.clicky:hover {
+  background-color: #DCDCDC;
+
+}
