@@ -1,0 +1,19 @@
+* {
+  font-family: "Open Sans";
+}
+.large-image {
+  max-width: 100%;
+}
+.red-text {
+  color: #FF2400;
+}
+.png-image {
+  max-width: 33%;
+
+}
+.bottom-div {
+  margin-top: 5%;
+}
+.title-text {
+  margin-bottom: -10%
+}
